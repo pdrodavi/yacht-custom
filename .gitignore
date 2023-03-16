@@ -1,0 +1,15 @@
+.github
+.vscode
+versions
+sql_app.db
+venv
+*.db
+node_modules
+config
+*.pyc
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/Yacht.iml
